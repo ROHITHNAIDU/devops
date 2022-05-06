@@ -1,1 +1,3 @@
-# DevOps, AWS 
+# maven-project
+
+Simple Maven Project
