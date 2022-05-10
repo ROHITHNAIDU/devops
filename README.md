@@ -1,3 +1,3 @@
-# maven-project
+# devops projects
 
-Simple Maven Project
+https://github.com/ValaxyTech/DevOpsDemos
